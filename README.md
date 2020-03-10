@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This notebook will be used for the IMB Data Science capstone project.
+This notebook will be used for the IBM Data Science capstone project.
